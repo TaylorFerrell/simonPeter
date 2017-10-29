@@ -1,0 +1,23 @@
+#content {
+  background: rgb(211, 220, 226);
+}
+#background {
+  background: rgb(180, 203, 232);
+}
+.container-fluid {
+  margin-top: 10px;
+}
+#title {
+  color: rgb(0, 0, 0);
+}
+
+#paragraph {
+  color: rgb(211, 220, 226);
+}
+.intro {
+  color: rgb(0, 0, 0);
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
